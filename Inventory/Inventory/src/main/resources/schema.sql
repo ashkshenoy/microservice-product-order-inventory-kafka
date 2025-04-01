@@ -1,0 +1,6 @@
+Create Table Inventory(
+	
+	productId VARCHAR(255) NOT NULL,
+	QUANTITY INTEGER,
+	PRIMARY KEY(PRODUCTID)
+);
